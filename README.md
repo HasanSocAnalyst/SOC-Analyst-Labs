@@ -1,34 +1,145 @@
-SOC-Analyst-Labs
-Hands-on SOC Analyst lab projects including phishing analysis, PCAP analysis, and log investigation using real-world scenarios.
+# SOC Analyst Portfolio
 
-SOC Analyst Lab Portfolio
-This repository showcases hands-on cybersecurity projects focused on Security Operations Center (SOC) tasks.
+Hello, I'm Hasan Beatty.
 
-Skills Demonstrated
-- Network Traffic Analysis (Wireshark)
-- Phishing Detection & Investigation
-- Log Analysis (Sysmon)
-- Threat Identification
+This repository contains hands-on cybersecurity investigations focused on Security Operations Center (SOC) activities and real-world attack analysis.
 
-Tools Used
+---
+
+# Areas of Focus
+
+- Phishing Email Analysis
+- Malicious URL Investigation
+- Network Traffic Analysis (PCAP)
+- Windows Log Analysis (Sysmon)
+- Threat Hunting
+- Incident Response Documentation
+
+---
+
+# Skills Demonstrated
+
+## Email Security
+
+- Email Header Analysis
+- SPF, DKIM, and DMARC Validation
+- Sender Verification
+- IOC Extraction
+- Phishing Detection
+
+## Network Security
+
+- Packet Analysis
+- DNS Investigation
+- HTTP Traffic Analysis
+- Network Forensics
+- Suspicious Traffic Identification
+
+## Endpoint Security
+
+- Sysmon Event Analysis
+- Process Creation Investigation
+- PowerShell Analysis
+- Persistence Detection
+- Windows Event Investigation
+
+## Threat Intelligence
+
+- VirusTotal Analysis
+- URLScan Investigation
+- WHOIS Research
+- IOC Correlation
+- Reputation Analysis
+
+---
+
+# Tools Used
+
 - Wireshark
 - Sysmon
 - VirusTotal
-- URLscan.io
+- URLScan.io
 - Kali Linux
-- Ubuntu
+- Ubuntu Linux
 - Thunderbird
+- Windows Event Viewer
 
-Featured Projects
+---
 
- Phishing Analysis
-- [Phishing Case 001](./Phishing-Analysis/Phishing-Case-001.md)
+# Featured Investigations
 
-PCAP Analysis
-- Coming soon
+## Phishing Email Analysis
 
-Log Analysis
-- Coming soon
+Investigated suspicious emails through:
 
-Objective
-To develop real-world SOC analyst skills through practical investigations and simulations.
+- Header analysis
+- Authentication verification
+- IOC extraction
+- Threat assessment
+- Incident reporting
+
+## Malicious URL Investigation
+
+Analyzed suspicious domains and URLs using:
+
+- URLScan
+- VirusTotal
+- WHOIS lookups
+- Threat intelligence sources
+
+## PCAP Analysis
+
+Performed network traffic investigations involving:
+
+- Protocol analysis
+- DNS activity review
+- HTTP inspection
+- Suspicious connection identification
+
+## Sysmon Log Analysis
+
+Conducted endpoint investigations involving:
+
+- Process creation events
+- Command-line analysis
+- Parent-child process relationships
+- Suspicious execution detection
+
+---
+
+# Repository Structure
+
+```text
+SOC-Analyst-Labs
+
+├── Phishing-Email-Investigations
+├── Malicious-URL-Investigations
+├── PCAP-Investigations
+├── Sysmon-Investigations
+├── TryHackMe
+├── Reports
+└── Templates
+```
+
+---
+
+# Current Learning Path
+
+- Security Operations Center (SOC)
+- Threat Hunting
+- SIEM Analysis
+- Splunk
+- Incident Response
+- Detection Engineering
+
+---
+
+# Goal
+
+To develop practical SOC analyst skills through hands-on investigations, documentation, and real-world cybersecurity scenarios.
+
+---
+
+# Contact
+
+GitHub: https://github.com/HasanSocAnalyst
