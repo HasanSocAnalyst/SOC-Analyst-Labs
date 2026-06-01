@@ -143,3 +143,4 @@ To develop practical SOC analyst skills through hands-on investigations, documen
 # Contact
 
 GitHub: https://github.com/HasanSocAnalyst
+LinkedIn: Coming Soon
