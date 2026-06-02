@@ -1,0 +1,8 @@
+<html>
+<body>
+<p>We detected unusual login activity on your account.</p>
+<p>Please verify your account immediately:</p>
+<a href="http://paypal.verify-user-login.com/security-check">Verify Now</a>
+<p>If you do not verify, your account will be suspended.</p>
+</body>
+</html>

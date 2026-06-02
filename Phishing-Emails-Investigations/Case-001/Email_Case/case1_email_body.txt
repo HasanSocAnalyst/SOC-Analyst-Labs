@@ -1,0 +1,5 @@
+Dear Customer,
+We were unable to process your recent payment. Your account has been temporarily restricted.
+To restore access, please verify your account immediately: http://secure-payment-update.com/login
+Failure to act within 24 hours will result in account suspension.
+Regards, Billing Department
