@@ -50,10 +50,3 @@ Successfully completed the room and identified relevant events using Linux log a
 
 ![Room Overview](screenshots/room_overview.png)
 
-### Searching Contacted Events
-
-![Contacted Events](screenshots/task1_grep_contacted.png)
-
-### Searching Yama Events
-
-![Yama Events](screenshots/task1_grep_yama.png)
