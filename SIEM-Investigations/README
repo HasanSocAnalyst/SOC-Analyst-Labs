@@ -1,0 +1,22 @@
+# SIEM Investigations
+
+Hands-on Splunk investigations using Sysmon, PowerShell Script Block Logging, and Windows Event Logs.
+
+## Cases
+
+| Case     | Investigation                | Status      |
+| -------- | ---------------------------- | ----------- |
+| Case-001 | PowerShell Enumeration       | Completed   |
+| Case-002 | Encoded PowerShell Execution | In Progress |
+
+## Skills Demonstrated
+
+* Splunk Search & Reporting
+* Sysmon Event Analysis
+* PowerShell Script Block Logging
+* Event ID 4104 Investigation
+* Process Creation Analysis
+* MITRE ATT&CK Mapping
+* Timeline Analysis
+* SOC Case Documentation
+* Base64 Decoding
