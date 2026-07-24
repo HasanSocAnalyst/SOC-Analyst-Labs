@@ -7,7 +7,7 @@ Hands-on Splunk investigations using Sysmon, PowerShell Script Block Logging, an
 | Case     | Investigation                | Status      |
 | -------- | ---------------------------- | ----------- |
 | Case-001 | PowerShell Enumeration       | Completed   |
-| Case-002 | Encoded PowerShell Execution | In Progress |
+| Case-002 | Encoded PowerShell Execution | Completed   | |
 
 ## Skills Demonstrated
 
