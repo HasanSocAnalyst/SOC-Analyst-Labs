@@ -20,7 +20,7 @@ Network traffic analysis revealed significant UDP communication on port 6881 bet
 - Pattern: High-volume peer communication across multiple external hosts
 
 5. Indicators of Interest
-- Internal IP: 192.168.1.6
+- Internal IP: 192.168xxxx
 - External IPs: Multiple (IPv6 peers)
 - Ports: 6881 (primary)
 
