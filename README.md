@@ -1,4 +1,3 @@
-SOC Analyst Portfolio
 I'm building practical SOC investigation skills through an independent home lab and documented security cases. My work focuses on finding what happened, checking the evidence, and explaining what the results do—and don't—prove.
 
 I use Splunk, Wazuh, Windows event logs, Sysmon, PowerShell logging, and network analysis tools. The investigations below include controlled lab activity, training captures, and suspicious messages reviewed for analysis; they are not claims of professional incident-response employment.
