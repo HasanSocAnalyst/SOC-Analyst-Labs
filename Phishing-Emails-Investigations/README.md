@@ -1,17 +1,9 @@
 # Phishing Email Investigations
 
-Collection of phishing email investigations focused on:
+Email investigations covering suspicious messages, sender verification, attachment analysis, and phishing indicators.
 
-- Header Analysis
-- IOC Extraction
-- Sender Verification
-- Email Authentication
+## Investigations
 
-## Cases
+- [Case 001 — Payroll Attachment Investigation](Case-001/README.md)
 
-- Case 001
-- Case 002
-- Case 003
-- Case 004
-- Case 005
-- Case 006
+These are independent training investigations. Findings are based on the available evidence, not assumed attacker activity.
