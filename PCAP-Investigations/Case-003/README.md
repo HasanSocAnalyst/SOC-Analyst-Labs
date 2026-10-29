@@ -24,15 +24,15 @@ Identified recurring DNS queries, approximately 48-second HTTPS communication in
 
 ## Evidence
 
-![DNS Activity](evidence/01-dns-activity.png)
+![DNS Activity](evidence/01-DNS-Queries.png)
 
-![TLS Beaconing](evidence/02-tls-beaconing.png)
+![TLS Beaconing](evidence/02-TLS-Beaconing.png)
 
-![HTTP POST Activity](evidence/03-http-post-activity.png)
+![HTTP POST Activity](evidence/03-HTTP-POST-Activity.png)
 
-![HTTP Responses](evidence/04-http-responses.png)
+![HTTP Responses](evidence/04-HTTP-Responses.png)
 
-![POST Pattern](evidence/05-post-pattern.png)
+![POST Pattern](evidence/5-Beaconing-Timing)
 
 ## Disposition
 
