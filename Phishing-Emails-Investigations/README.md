@@ -4,7 +4,7 @@ SOC investigations covering email authentication, suspicious attachments, encode
 
 ## Investigations
 
-- [Case-001 — Payroll Phishing and Encoded Attachment](Case-001/README.md)
+- [Case-001 — Payroll Phishing and Encoded Attachment](Case-001-Payroll-Phishing-and-Encoded-Attachment/README.md)
 - [Case-002 — Cloud Storage Payment Phishing](Case-002-Cloud-Storage-Payment-Phishing/README.md)
 
 ## Investigation Approach
