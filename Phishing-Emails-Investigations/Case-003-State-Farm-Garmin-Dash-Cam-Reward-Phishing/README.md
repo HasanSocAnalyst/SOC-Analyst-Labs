@@ -29,18 +29,15 @@ Original Phishing Email
 
 Email Header Analysis
 
-HTML Branding and Links — Part 1
-
-HTML Branding and Links — Part 2
-
-HTML Content Padding — Part 1
-
-HTML Content Padding — Part 2
-
-WHOIS Sending IP Investigation — Part 1
-
-WHOIS Sending IP Investigation — Part 2
-
+- [Original Phishing Email](evidence/01-original-phishing-email.jpg)
+- [Email Header Analysis](evidence/02-email-headers.png)
+- [HTML Branding and Links — Part 1](evidence/03-html-branding-and-links-1.png)
+- [HTML Branding and Links — Part 2](evidence/03-html-branding-and-links-2.png)
+- [HTML Content Padding — Part 1](evidence/04-html-content-padding-1.png)
+- [HTML Content Padding — Part 2](evidence/04-html-content-padding-2.png)
+- [WHOIS Sending IP Investigation — Part 1](evidence/05-whois-sending-ip-1.png)
+- [WHOIS Sending IP Investigation — Part 2](evidence/05-whois-sending-ip-2.png)
+  
 ## Disposition
 
 Classified as a high-confidence brand-impersonation phishing attempt using a fraudulent reward lure.

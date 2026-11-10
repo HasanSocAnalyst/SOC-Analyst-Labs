@@ -104,18 +104,11 @@ The email was classified as high-confidence phishing. No compromise was confirme
 
 ### 8. Evidence Reference
 
-evidence/01-original-phishing-email.jpg
-
-evidence/02-email-headers.png
-
-evidence/03-html-branding-and-links-1.png
-
-evidence/03-html-branding-and-links-2.png
-
-evidence/04-html-content-padding-1.png
-
-evidence/04-html-content-padding-2.png
-
-evidence/05-whois-sending-ip-1.png
-
-evidence/05-whois-sending-ip-2.png
+- [Original Phishing Email](evidence/01-original-phishing-email.jpg)
+- [Email Header Analysis](evidence/02-email-headers.png)
+- [HTML Branding and Links — Part 1](evidence/03-html-branding-and-links-1.png)
+- [HTML Branding and Links — Part 2](evidence/03-html-branding-and-links-2.png)
+- [HTML Content Padding — Part 1](evidence/04-html-content-padding-1.png)
+- [HTML Content Padding — Part 2](evidence/04-html-content-padding-2.png)
+- [WHOIS Sending IP Investigation — Part 1](evidence/05-whois-sending-ip-1.png)
+- [WHOIS Sending IP Investigation — Part 2](evidence/05-whois-sending-ip-2.png)
