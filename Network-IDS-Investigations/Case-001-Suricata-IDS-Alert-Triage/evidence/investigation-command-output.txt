@@ -1,0 +1,47 @@
+CASE-001 — SURICATA IDS INVESTIGATION
+Capture: 2026-02-28-traffic-analysis-exercise.pcap
+Internal host: 10.2.28.88
+External destination: 45.131.214.85
+
+=== SURICATA PROCESSING ===
+15,512 packets processed; 6,333,775 bytes
+
+=== ALERT COUNTS ===
+    264 [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) 
+      1 [1:2031071:4] ET INFO Microsoft Connection Test 
+    264 [1:2035892:5] ET INFO NetSupport Remote Admin Checkin 
+      2 [1:2035895:6] ET INFO NetSupport Remote Admin Response 
+
+=== NETSUPPORT ALERT EXAMPLES ===
+02/28/2026-19:55:51.679800  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+02/28/2026-19:55:51.838383  [**] [1:2035895:6] ET INFO NetSupport Remote Admin Response [**] [Classification: Misc activity] [Priority: 3] {TCP} 45.131.214.85:443 -> 10.2.28.88:51912
+02/28/2026-19:55:51.887075  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+02/28/2026-19:55:52.237236  [**] [1:2035895:6] ET INFO NetSupport Remote Admin Response [**] [Classification: Misc activity] [Priority: 3] {TCP} 45.131.214.85:443 -> 10.2.28.88:51912
+02/28/2026-19:55:52.239184  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+02/28/2026-19:56:52.414979  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+
+=== HTTP REQUEST DETAILS ===
+2638	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	22
+2640	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	244
+2643	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	76
+2645	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	77
+3807	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	36
+4093	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	36
+4134	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	36
+4149	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	36
+4201	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	36
+4211	POST	45.131.214.85	http://45.131.214.85/fakeurl.htm	NetSupport Manager/1.3	36
+
+=== HTTP REQUEST BODY EXAMPLES ===
+2638	CMD=POLL\nINFO=1\nACK=1\n
+2640	CMD=ENCD\nES=1\nDATA=u�2h\fr�4�]��%y-�����=I���D3�W��i�7?���=@����F�f����&t�[�6ra�L������������/��f��Kw���'5T�m�<��Cn5;u����Dd��MQ�Y������z�8Up�"�|�]��X�=n�=J75 ������PK�b=J-�oBA�=n>���H�|��:�\`�=nUj1!T�����=@��?����T"��+��,�2\n
+2643	CMD=ENCD\nES=1\nDATA=l3<(T{E����V��k�9|||$(m��$Cj_��������0Mt��s���M�6��\n
+2645	CMD=ENCD\nES=1\nDATA=l3<(T{E����V��k�9|||$(m��$Cj%�Su�2=@���b�u���?sq� \n
+3807	CMD=ENCD\nES=1\nDATA=��#�mH��UAA��g�\n
+4093	CMD=ENCD\nES=1\nDATA=��#�mH��UAA��g�\n
+4134	CMD=ENCD\nES=1\nDATA=��#�mH��UAA��g�\n
+4149	CMD=ENCD\nES=1\nDATA=��#�mH��UAA��g�\n
+4201	CMD=ENCD\nES=1\nDATA=��#�mH��UAA��g�\n
+4211	CMD=ENCD\nES=1\nDATA=��#�mH��UAA��g�\n
+
+=== DNS CHECK ===
